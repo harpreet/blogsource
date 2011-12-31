@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Software Prices 1987-2010"
+date: 2011-10-27 11:12
+comments: true
+categories: 
+---
+
+I found some old issues of COMPUTE and BYTE magazine on eBay and decided to buy them.  The articles are not quite as riveting as when I flipped through them as a kid, instead the ads are now more interesting.  I found some prices of old software such as Lotus 1-2-3, WordPerfect 4.2 and a golf game called World Class Leaderboard.  I adjusted the old prices for inflation and looked up the prices for the modern equivalents.  
+
+<br />
+Here's the comparison:
+<br /><br />
+
+ <img alt="Software prices 1987 vs. 2010 (in 2010 dollars)" height="375" src="http://chart.apis.google.com/chart?chxl=0:|Lotus+1-2-3++Office+'10|WordPerfect++Office+'10|PC+Golf+game++PGA+Tour+(Wii)&amp;chxp=0,70,270,490&amp;chxr=0,0,600|1,0,700&amp;chxs=0,676767,12.5,0,l,676767|1,676767,12.5,0,l,676767&amp;chxt=x,y&amp;chbh=a,10,14&amp;chs=600x375&amp;cht=bvg&amp;chco=4D89F9,C6D9FD,FF9900&amp;chds=0,700,5,700,0,700&amp;chd=t:631,401,85|122,122,56|-1&amp;chdl=1987+price+(in+2010+dollars)|2010+price&amp;chtt=Software+prices+1987+vs.+2010+(in+2010+dollars)&amp;chts=111111,11.5" width="600" />
+
+
+Software prices 1987 vs. 2010 (in 2010 dollars)  <br /><br />
+  
+
+This is dramatic but even more so when you consider that it doesn't take into account that:  <br />
+
+* Office is a whole suite of software rather than just a word processor or spreadsheet
+* The 2010 software will be much better along almost any dimension that matters to users
+* As a share of disposable income the modern software is even more affordable than the graph suggests
+* There are even free software packages that would deliver far more functionality than the 1987 equivalents  
+<br />  
+
+It's good to see that it's not only hardware that keeps getting better and cheaper.  It's interesting to speculate why this might be happening in software. A lot of it is likely due to market growth that allows for lower prices per unit but some of the difference may be driven by an increase in software development productivity.
