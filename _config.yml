@@ -49,7 +49,7 @@ default_asides: [custom/asides/pages.html, asides/recent_posts.html, asides/gith
 # and add an array with the asides you want to use.
 # blog_index_asides: 
 # post_asides:
-page_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html]
+# page_asides: 
 
 # ----------------------- #
 #   3rd Party Settings    #
